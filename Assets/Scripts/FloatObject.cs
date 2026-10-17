@@ -2,15 +2,10 @@ using UnityEngine;
 
 public class FloatObject : MonoBehaviour
 {
-    public float amplitude = 1f;
+    public float amplitude = 0.25f;
     public float speed = 2f;
     private Vector3 startPosition;
-
-    void Start()
-    {
-        startPosition = transform.position;
-    }
-
+    void Start() => startPosition = transform.position;
     void Update()
     {
         float y = Mathf.Sin(Time.time * speed) * amplitude;
