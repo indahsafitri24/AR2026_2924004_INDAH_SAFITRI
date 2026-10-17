@@ -1,3 +1,0 @@
-D:\AR_2924004_INDAH_SAFITRI\INDAH SAFITRI\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-D:\AR_2924004_INDAH_SAFITRI\INDAH SAFITRI\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
-D:\AR_2924004_INDAH_SAFITRI\INDAH SAFITRI\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
